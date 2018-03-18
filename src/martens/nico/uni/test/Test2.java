@@ -1,7 +1,5 @@
 package martens.nico.uni.test;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class Test2 {
 
 	public static void main(String[] args) {
